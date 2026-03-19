@@ -1,2 +1,108 @@
-# Leetcode-Journey
-This is a repo that follows me through many different leetcode problems.
+# 📘 LeetCode Journey
+
+A curated collection of Data Structures & Algorithms problems solved during my LeetCode practice, focused on building strong problem-solving skills and preparing for technical interviews.
+
+---
+
+## 🚀 About This Repository
+
+This repository contains solutions to DSA problems from platforms like:
+
+* LeetCode
+* HackerRank
+
+Each solution includes:
+
+* ✅ Problem link
+* 💡 Approach / intuition
+* ⚡ Time & space complexity
+* 🧠 Clean, readable, and well-commented code
+
+---
+
+## 📂 Folder Structure
+
+The repository is organized by topic. Each problem has its own folder containing the solution and explanation.
+
+```
+root/
+│
+├── arrays/
+│   └── two-sum/
+│       ├── solution.py
+│       └── README.md
+│
+├── strings/
+├── linked-list/
+├── trees/
+├── graphs/
+└── dynamic-programming/
+```
+
+---
+
+## 🧠 Topics Covered
+
+* Arrays & Strings
+* Linked Lists
+* Stacks & Queues
+* Trees & Binary Trees
+* Graphs
+* Recursion & Backtracking
+* Dynamic Programming
+* Greedy Algorithms
+
+---
+
+## 📝 Featured Problems
+
+| Problem                                        | Topic       | Difficulty |
+| ---------------------------------------------- | ----------- | ---------- |
+
+
+> More problems are added consistently 🚀
+
+---
+
+## 📈 Progress Tracker
+
+* ✅ Easy: 0
+* 🔄 Medium: 0
+* ⏳ Hard: 0
+
+---
+
+## 🛠️ Languages Used
+
+* Python 🐍
+
+---
+
+## 🎯 Goals
+
+* Solve problems consistently
+* Master core DSA patterns
+* Improve problem-solving speed and intuition
+* Prepare for technical interviews
+
+---
+
+## 💡 How to Use
+
+1. Pick a topic from the folder structure
+2. Try solving the problem on your own
+3. Review the solution and approach
+4. Understand the complexity and patterns used
+
+---
+
+## 🤝 Contributions
+
+This is a personal learning repository, but suggestions and improvements are always welcome!
+
+---
+
+## 📌 Note
+
+Consistency > intensity
+Understanding > memorization
