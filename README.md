@@ -54,10 +54,17 @@ root/
 
 ---
 
+Here’s an updated version with the problems you’ve worked on:
+
 ## 📝 Featured Problems
 
-| Problem                                        | Topic       | Difficulty |
-| ---------------------------------------------- | ----------- | ---------- |
+| Problem                                                                           | Topic              | Difficulty |
+| --------------------------------------------------------------------------------- | ------------------ | ---------- |
+| [Valid Anagram](https://leetcode.com/problems/valid-anagram/)                     | Hash Map           | Easy       |
+| [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | Hash Map, Sorting  | Medium     |
+| [Score of a String](https://leetcode.com/problems/score-of-a-string/)             | String, Simulation | Easy       |
+| [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/)   | Array              | Easy       |
+
 
 
 > More problems are added consistently 🚀
@@ -66,8 +73,8 @@ root/
 
 ## 📈 Progress Tracker
 
-* ✅ Easy: 0
-* 🔄 Medium: 0
+* ✅ Easy: 5
+* 🔄 Medium: 1
 * ⏳ Hard: 0
 
 ---
