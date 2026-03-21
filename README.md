@@ -73,7 +73,7 @@ Here’s an updated version with the problems you’ve worked on:
 
 ## 📈 Progress Tracker
 
-* ✅ Easy: 5
+* ✅ Easy: 8
 * 🔄 Medium: 1
 * ⏳ Hard: 0
 
