@@ -54,16 +54,18 @@ root/
 
 ---
 
-Here’s an updated version with the problems you’ve worked on:
-
 ## 📝 Featured Problems
 
-| Problem                                                                           | Topic              | Difficulty |
-| --------------------------------------------------------------------------------- | ------------------ | ---------- |
-| [Valid Anagram](https://leetcode.com/problems/valid-anagram/)                     | Hash Map           | Easy       |
-| [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | Hash Map, Sorting  | Medium     |
-| [Score of a String](https://leetcode.com/problems/score-of-a-string/)             | String, Simulation | Easy       |
-| [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/)   | Array              | Easy       |
+| Problem                                                                                                     | Topic                     | Difficulty |
+| ----------------------------------------------------------------------------------------------------------- | ------------------------- | ---------- |
+| [Valid Anagram](https://leetcode.com/problems/valid-anagram/)                                               | Hash Map                  | Easy       |
+| [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)                           | Hash Map, Sorting         | Medium     |
+| [Score of a String](https://leetcode.com/problems/score-of-a-string/)                                       | String, Simulation        | Easy       |
+| [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/)                             | Array                     | Easy       |
+| [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | Binary Search             | Medium     |
+| [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)                             | Linked List, Two Pointers | Easy       |
+| [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)                                   | Linked List, Two Pointers | Easy       |
+
 
 
 
@@ -73,8 +75,8 @@ Here’s an updated version with the problems you’ve worked on:
 
 ## 📈 Progress Tracker
 
-* ✅ Easy: 8
-* 🔄 Medium: 1
+* ✅ Easy: 10
+* 🔄 Medium: 2
 * ⏳ Hard: 0
 
 ---
