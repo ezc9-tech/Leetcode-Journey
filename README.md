@@ -77,7 +77,7 @@ root/
 
 * ✅ Easy: 16
 * 🔄 Medium: 4
-* ⏳ Hard: 0
+* ⏳ Hard: 1
 
 ---
 
