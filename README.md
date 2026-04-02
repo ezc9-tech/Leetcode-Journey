@@ -76,7 +76,7 @@ root/
 ## 📈 Progress Tracker
 
 * ✅ Easy: 16
-* 🔄 Medium: 5
+* 🔄 Medium: 6
 * ⏳ Hard: 1
 
 ---
